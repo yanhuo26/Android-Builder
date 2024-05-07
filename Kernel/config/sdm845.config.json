@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi4",
-      "repo": "https://github.com/SonicBSV/android_kernel_xiaomi_markw-4.9",
-      "branch": "master",
-      "device": "markw",
-      "defconfig": "markw_defconfig"
+      "name": "Mi8Pro",
+      "repo": "https://github.com/yanhuo26/android_kernel_xiaomi_sdm845.git",
+      "branch": "udc",
+      "device": "sdm845",
+      "defconfig": "sdm845_defconfig"
     },
     "toolchains": [
       {
@@ -60,6 +60,6 @@
       "release": true
     },
     "enableKernelSU": true,
-    "enableLXC": true
+    "enableLXC": false
   }
 ]
