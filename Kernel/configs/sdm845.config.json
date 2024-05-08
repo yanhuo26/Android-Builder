@@ -4,8 +4,8 @@
       "name": "Mi8Pro",
       "repo": "https://github.com/yanhuo26/android_kernel_xiaomi_sdm845.git",
       "branch": "udc",
-      "device": "ursa",
-      "defconfig": "ursa_defconfig"
+      "device": "equuleus",
+      "defconfig": "equuleus_defconfig"
     },
     "toolchains": [
       {
