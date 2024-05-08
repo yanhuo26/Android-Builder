@@ -5,7 +5,7 @@
       "repo": "https://github.com/yanhuo26/android_kernel_xiaomi_sdm845.git",
       "branch": "udc",
       "device": "ursa",
-      "defconfig": "sdm845_defconfig"
+      "defconfig": "ursa_defconfig"
     },
     "toolchains": [
       {
