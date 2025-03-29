@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Mix2s",
-      "repo": "https://github.com/yanhuo26/Xiaomi_Kernel_OpenSource.git",
-      "branch": "dipper-q-oss",
+      "repo": "https://github.com/yanhuo26/EVOkernel_xiaomi_sdm845.git",
+      "branch": "vic",
       "device": "polaris",
-      "defconfig": "polaris_user_defconfig"
+      "defconfig": "stock-polaris_defconfig"
     },
     "toolchains": [
       {
