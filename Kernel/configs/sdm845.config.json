@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Mi8Pro",
-      "repo": "https://github.com/yanhuo26/android_kernel_xiaomi_sdm845.git",
-      "branch": "udc",
-      "device": "equuleus",
-      "defconfig": "equuleus_defconfig"
+      "name": "Mix2s",
+      "repo": "https://github.com/yanhuo26/Xiaomi_Kernel_OpenSource.git",
+      "branch": "dipper-q-oss",
+      "device": "polaris",
+      "defconfig": "polaris_user_defconfig"
     },
     "toolchains": [
       {
